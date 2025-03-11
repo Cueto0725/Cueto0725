@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean Claude Leonard C. Cueto
 - 👀 I’m interested in Software Developing and AI Machine Learning  
-- 🌱 I’m currently learning on MYSQL,PHP, different frameworks and Python
+- 🌱 I’m currently learning on MySql,PHP, different frameworks and Python
 - 💞️ I’m looking to collaborate on projects that will enhance my skills in programming
 - 📫 How to reach me email: jeanclaudeleonard.cueto@gmail.com
 
