@@ -4,5 +4,5 @@
 - 📫 How to reach me email: jeanclaudeleonard.cueto@gmail.com
 
 <a href="https://cueto0725.github.io/CUETO/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Website-blue?style=for-the-badge" alt="Website Button"/>
+  <img src="https://img.shields.io/badge/Visit%20My%20Website-black?style=for-the-badge" alt="Website Button"/>
 </a>
